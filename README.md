@@ -17,7 +17,7 @@
 <a href="https://www.linkedin.com/in/kumar-abhi001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/cutexx" height="30" width="40" /></a>
 
 <h3 align="left"> Profiles: </h3> 
-<a href="https://www.hackerrank.com/profile/kumar-abhi001" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/abhishekkumart41" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/profile/kumar_abhi_ok" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/abhishekkumart41" height="30" width="40" /></a>
 <a href="https://leetcode.com/kumar-abhi001/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/abhishekkumart483/" height="30" width="40" /></a>
 <a href="https://www.geeksforgeeks.org/user/kumarabhi001/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="abhishekkrjng" height="30" width="40" /></a>
 </p>
